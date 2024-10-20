@@ -3,3 +3,8 @@ display: grid;
 grid-template-columns: repeat(3, 1fr);
 gap: 10px;
 }
+
+.visited{
+    background-color: antiquewhite;
+    color:chocolate
+}
